@@ -1,3 +1,4 @@
 # Jitu
 This is my first repositry
- Auther-Jitendra Kumar
+<br>
+ Author-Jitendra Kumar
